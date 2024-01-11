@@ -38,3 +38,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+---
+
+Manage async state gracefully with React-Query
+
+Hi, I will be talking about React-Query aka Tanstack-Query.The talk will consits of ppt slides and code walkthroughs. I will be covering topics such as -
+
+1. useQuery and useMutation hooks
+2. Best practice for writing query/mutation hooks
+3. useInfiniteQuery with Flatlist (React-Native)
+4. Query caching and invalidation
+5. Paginated Queries
+6. Prefetching, Hydration (SSR - getServerSideProps of Next)
+   This talk will be concluded with a brief example of using react-query for more than data fetching.
