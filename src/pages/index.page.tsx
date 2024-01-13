@@ -18,6 +18,18 @@ export default function Home() {
         >
           Mutation
         </a>
+        <a
+          href="/query/paginated"
+          className="px-3 py-2 rounded-md bg-slate-400 text-white text-xl"
+        >
+          Paginated Query
+        </a>
+        <a
+          href="/query/infinite"
+          className="px-3 py-2 rounded-md bg-slate-400 text-white text-xl"
+        >
+          Infinite Query
+        </a>
       </div>
     </main>
   );
